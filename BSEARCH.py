@@ -19,3 +19,4 @@ os.system('clear')
 pos=linearsrch(mylist,n,key)
 if pos==0:
 	print("Key Is Not Found")
+	
